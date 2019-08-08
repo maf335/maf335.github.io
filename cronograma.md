@@ -322,14 +322,12 @@ title: Cronograma da Disciplina
 </TABLE>
 </CENTER></DIV>
 
-<p class="intro">Primeiro Semestre de 2019.</p>
+<p class="intro">Segundo Semestre de 2019.</p>
 
 ---
 
-* [Cronograma da disciplina][MAF105] 
 * [Cronograma da UFV][UFV-gh].
 
 ---
 
-[UFV-gh]:https://rawgit.com/maf105/maf105.github.io/master/Cronogramas/Calendario_UFV.pdf
-[MAF105]:https://rawgit.com/maf105/maf105.github.io/master/Cronogramas/MAF105_2019.pdf
+[UFV-gh]:https://rawgit.com/maf335.github.io/master/Cronogramas/Calendario_UFV.pdf
