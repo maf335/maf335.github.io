@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.6.5)  27 AUG 2019 13:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.6.5)  29 AUG 2019 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,9 +613,6 @@ Package: exercise 2014/10/20 v1.6 Exercise package (P.Pichaureau)
 \@savedmathindent=\skip93
 ) (./espacos.aux
 
-LaTeX Warning: Label `18lista3' multiply defined.
-
-
 LaTeX Warning: Label `17lista3' multiply defined.
 
 )
@@ -719,7 +716,7 @@ T1/cmr/m/n/10 = []$\T1/cmr/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--435
+Underfull \hbox (badness 10000) in paragraph at lines 422--431
 []\T1/cmr/m/n/10 Considerando $\OT1/cmr/bx/n/10 W[]$ \T1/cmr/m/n/10 e $\OT1/cmr
 /bx/n/10 W[]$ \T1/cmr/m/n/10 os su-bes-pa-ços dos exer-cí-cios an-te-ri-o-res m
 os-tre que
@@ -735,10 +732,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15735 strings out of 492615
- 284657 string characters out of 6131391
- 374122 words of memory out of 5000000
- 19476 multiletter control sequences out of 15000+600000
+ 15737 strings out of 492615
+ 284675 string characters out of 6131391
+ 374140 words of memory out of 5000000
+ 19478 multiletter control sequences out of 15000+600000
  544117 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,12n,63p,865b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
