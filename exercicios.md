@@ -15,5 +15,10 @@ description: Página com listas de exercícios.
 
 ---
 
+* [Gabarito 1][gab1] - Gabarito da lista 1.
+
+---
+
 [Introducao]:https://raw.githack.com/maf335/maf335.github.io/master/Exercicios/Lista1/Matrizes.pdf  
 [espacos]:https://raw.githack.com/maf335/maf335.github.io/master/Exercicios/Lista2/espacos.pdf
+[gab1]:https://raw.githack.com/maf335/maf335.github.io/master/Exercicios/Lista1/Gabarito1.pdf
