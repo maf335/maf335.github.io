@@ -16,16 +16,16 @@ navigation:
    url: /index.html
  - title: Cronograma
    url: /cronograma
- - title: Contato
-   url: /contato
- - title: Aulas
-   url: /aulas
+# - title: Contato
+#   url: /contato
+# - title: Aulas
+#   url: /aulas
  - title: Exercícios
    url: /exercicios
- - title: Materiais
-   url: /materiais
- - title: Créditos
-   url: /creditos
+# - title: Materiais
+#   url: /materiais
+# - title: Créditos
+#   url: /creditos
 
 social:
    github: maf335
